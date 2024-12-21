@@ -24,7 +24,11 @@ cycler==0.12.1
 debugpy==1.8.2
 decorator==5.1.1
 distro==1.9.0
-dlib @ file:///C:/Users/ROG/Downloads/dlib-19.24.2-cp312-cp312-win_amd64.whl#sha256=df9a383c4e54c9907b22a15463d526b3daf6cf7bc12ec59495a41c7ba91de93e
+dlib
+cmake
+boost
+libopenblas-dev
+liblapack-dev
 docopt==0.6.2
 et-xmlfile==1.1.0
 executing==2.0.1
